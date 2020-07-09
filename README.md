@@ -9,10 +9,16 @@ We used the framework of the memory networks (1st- and 2nd-order Markov networks
 Please find the paper by M. Rosvall et al. for the details of the memory networks and the map equation: 
 [Rosvall, M., Esquivel, A., Lancichinetti, A. et al. "Memory in network flows and its effects on spreading dynamics and community detection," Nat. Commun. 5(1) (2014)](https://www.nature.com/articles/ncomms5630)
 
+The figure below shows popular transitions that appear in the four largest modules detected by applying the map equation to the 2nd-order Markov networks in 2017.
+
+<div align="center">
+<img src="https://github.com/RyutaroHashimoto/community_detection_of_FF-data/blob/master/img/ModuleMapFigure.png"  width="500px" alt = "Japanese map showing a brief overview of the classified elements of traveler pathways.">
+</div>
+
 Please find the following paper for further details of FF-data and its community detection: 
 
 T. Kawamoto and R. Hashimoto, "Identifying macroscopic features in foreign visitor travel pathways," *in preparation* (2020).
-
+	
 
 ## Contents
 The following files are included:
