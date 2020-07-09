@@ -27,7 +27,7 @@ The following files are included:
 	- `id` : Code of a node.
 	- `name` : Name of a node in English.
 	- `module_index` : Index of a module that a node belongs to.
-5. 2nd_order  Results of the community detection of the 2nd-order Markov networks using the map equation.
+5. 2nd_order : Results of the community detection of the 2nd-order Markov networks using the map equation.
 	- `prior_id` : Code of a prior node.
 	- `prior_name` : Name of a prior node in English.
 	- `destination_id` : Code of a destination node.
