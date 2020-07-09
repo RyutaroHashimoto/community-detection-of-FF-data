@@ -11,6 +11,13 @@ Memory networksとmap equationの詳細は以下の論文を参考にしてく�
 
 [Rosvall, M., Esquivel, A., Lancichinetti, A. et al. "Memory in network flows and its effects on spreading dynamics and community detection," Nat. Commun. 5(1) (2014)](https://www.nature.com/articles/ncomms5630)
 
+
+下の図は2017年の2nd-order Markov networksをmap equation用いて検出したモジュールの中で、大きさが上位4つのモジュールに含まれる、移動者数が特に多い経路を示しています。
+
+<div align="center">
+<img src="https://github.com/RyutaroHashimoto/community_detection_of_FF-data/blob/master/img/ModuleMapFigure.png"  width="500px" alt = "Japanese map showing a brief overview of the classified elements of traveler pathways.">
+</div>
+
 FF-dataやコミュニティ検出の方法のより詳細な情報は以下の論文を参考にしてください。
 
 T. Kawamoto and R. Hashimoto, "Identifying macroscopic features in foreign visitor travel pathways," *in preparation* (2020).
@@ -41,6 +48,6 @@ T. Kawamoto and R. Hashimoto, "Identifying macroscopic features in foreign visit
 
 ## 引用
 
-リポジトリ内のデータを利用する場合は、以下を引用してください。
+このリポジトリのデータを利用する場合は、以下を引用してください。
 
 T. Kawamoto and R. Hashimoto, "Identifying macroscopic features in foreign visitor travel pathways," *in preparation* (2020).
