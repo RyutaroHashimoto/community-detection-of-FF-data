@@ -41,6 +41,6 @@ T. Kawamoto and R. Hashimoto, "Identifying macroscopic features in foreign visit
 
 ## 引用
 
-このリポジトリのデータを利用する場合は、以下を引用してください。
+リポジトリ内のデータを利用する場合は、以下を引用してください。
 
 T. Kawamoto and R. Hashimoto, "Identifying macroscopic features in foreign visitor travel pathways," *in preparation* (2020).
